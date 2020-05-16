@@ -1,0 +1,50 @@
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\bin\Debug\Agence.exe.config
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\bin\Debug\Agence.exe
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\bin\Debug\Agence.pdb
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.csprojAssemblyReference.cache
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\MainWindow.g.cs
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\App.g.cs
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence_MarkupCompile.cache
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence_MarkupCompile.lref
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\MainWindow.baml
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.g.resources
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.Properties.Resources.resources
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.csproj.GenerateResource.cache
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.csproj.CoreCompileInputs.cache
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.exe
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Agence.pdb
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Window1.g.cs
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Window1.baml
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Window2.g.cs
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\Window2.baml
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\BuschIce.g.cs
+C:\Users\adamb\Desktop\cégep\prog 3\TP1\Agence\obj\Debug\BuschIce.baml
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.exe
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.pdb
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\Agence.exe.config
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\Agence.exe
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\Agence.pdb
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\mscorlib.dll
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\normidna.nlp
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\normnfc.nlp
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\normnfd.nlp
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\normnfkc.nlp
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\bin\Debug\normnfkd.nlp
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.csprojAssemblyReference.cache
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\BuschIce.g.cs
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\MainWindow.g.cs
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Window1.g.cs
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Window2.g.cs
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\App.g.cs
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence_MarkupCompile.cache
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence_MarkupCompile.lref
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\BuschIce.baml
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\MainWindow.baml
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Window1.baml
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Window2.baml
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.g.resources
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.Properties.Resources.resources
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.csproj.GenerateResource.cache
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.csproj.CoreCompileInputs.cache
+C:\Users\adamb\Downloads\20181015102345_TP1\TP1\Agence\obj\Debug\Agence.csproj.CopyComplete

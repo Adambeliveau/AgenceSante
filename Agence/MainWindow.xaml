@@ -1,0 +1,32 @@
+﻿<Window x:Class="Agence.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Agence"
+        mc:Ignorable="d"
+        Title="Agence" Height="450" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="167*"/>
+            <RowDefinition Height="86*"/>
+            <RowDefinition Height="166*"/>
+        </Grid.RowDefinitions>
+        <Image Margin="270,27,270,67" Source="42247782_251344912234073_6357854596668325888_n.png" Stretch="Fill"/>
+
+
+
+        <GroupBox Header="Identification" HorizontalAlignment="Left" Height="256" Margin="53,144,0,0" VerticalAlignment="Top" Width="384" FontWeight="Bold" FontSize="20" Foreground="#FF910000" BorderBrush="Black" Grid.RowSpan="3">
+            <Grid HorizontalAlignment="Left" Height="237" Margin="0,0,-12,-15" Grid.RowSpan="3" VerticalAlignment="Top" Width="384">
+                <PasswordBox x:Name="login" HorizontalAlignment="Left" Height="33" Margin="167,123,0,0" VerticalAlignment="Top" Width="186"/>
+                <TextBox x:Name="identite" HorizontalAlignment="Left" Height="33" Margin="167,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186" Background="White" LostFocus="Fuser"/>
+                <Label Content="user" HorizontalAlignment="Left" Height="33" Margin="24,15,0,0" VerticalAlignment="Top" Width="92" FontWeight="Bold" FontSize="18"/>
+                <Label Content="login" HorizontalAlignment="Left" Height="33" Margin="24,123,0,0" VerticalAlignment="Top" Width="92" FontSize="18" FontWeight="Bold"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Height="36" Margin="200,181,0,0" VerticalAlignment="Top" Width="153" Click="btnValider"/>
+
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>
